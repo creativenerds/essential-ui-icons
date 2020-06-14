@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'essential-icons_Creative-Nerds';
-  src:  url('fonts/essential-icons_Creative-Nerds.eot?h0sv3e');
-  src:  url('fonts/essential-icons_Creative-Nerds.eot?h0sv3e#iefix') format('embedded-opentype'),
-    url('fonts/essential-icons_Creative-Nerds.ttf?h0sv3e') format('truetype'),
-    url('fonts/essential-icons_Creative-Nerds.woff?h0sv3e') format('woff'),
-    url('fonts/essential-icons_Creative-Nerds.svg?h0sv3e#essential-icons_Creative-Nerds') format('svg');
+  src:  url('fonts/essential-icons_Creative-Nerds.eot?6rs8ka');
+  src:  url('fonts/essential-icons_Creative-Nerds.eot?6rs8ka#iefix') format('embedded-opentype'),
+    url('fonts/essential-icons_Creative-Nerds.ttf?6rs8ka') format('truetype'),
+    url('fonts/essential-icons_Creative-Nerds.woff?6rs8ka') format('woff'),
+    url('fonts/essential-icons_Creative-Nerds.svg?6rs8ka#essential-icons_Creative-Nerds') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -13,7 +13,7 @@
 i {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'essential-icons_Creative-Nerds' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
