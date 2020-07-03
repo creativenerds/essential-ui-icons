@@ -1,4 +1,4 @@
-# 80+ Essential Icons
+# 300+ Essential Icons
 
 This is an icon set brought to you by Creative Nerds. The set of icons is icons commonly needed for user interface design projects for mobile applications or web apps.
 
@@ -14,7 +14,7 @@ There is two ways you can use the icons in your web design projects. You can dow
 You can either download the icon set from Git Hub, ensuring you include the stylesheet and fonts in your project. The easier alternative method is you can use our CDN to reference the style sheet in your project.
 
 
-<link href="https://cdn.jsdelivr.net/gh/creativenerds/essential-ui-icons@master/style.css" rel="stylesheet" /> 
+&lt;link href="https://cdn.jsdelivr.net/gh/creativenerds/essential-ui-icons@master/style.css" rel="stylesheet" /> 
 
 
 ## 2. Choose icon an icon set
