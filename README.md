@@ -2,7 +2,7 @@
 
 This is an icon set brought to you by Creative Nerds. The set of icons is icons commonly needed for user interface design projects for mobile applications or web apps.
 
-https//creativenerds.co.uk/css-icons
+<a href="https//creativenerds.co.uk/css-icons">https//creativenerds.co.uk/css-icons </a>
 
 ## Getting Started
 
